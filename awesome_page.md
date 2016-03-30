@@ -3,7 +3,7 @@
 *My italics are awesome*
 
 ```ruby
-puts("I am awesome")
+puts("I am not awesome")
 ```
 
 [Awesome](www.lmgtfy.com/awesome)
